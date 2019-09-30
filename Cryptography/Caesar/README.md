@@ -1,3 +1,4 @@
+[< Go to Cryptography](/Cryptography) OR [<< Go to Home](/)
 # Caesar - 10 Points
 ## Problem
 I went to Caesar's Palace in Las Vegas—I'm a little bit concerned though because I found this written on a little sheet in my room: 

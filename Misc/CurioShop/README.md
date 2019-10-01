@@ -1,4 +1,4 @@
-[< Go to Binary Exploitation](/BinaryExploitation) OR [<< Go to Home](/)
+[< Go to Misc](/Misc) OR [<< Go to Home](/)
 
 # The Curio Shop - 50 Points
 

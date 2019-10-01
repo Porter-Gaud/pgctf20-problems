@@ -1,5 +1,5 @@
 [< Go to Forensics](/Forensics) OR [<< Go to Home](/)
-# Bruh - 10 Points
+# Bruh - 25 Points
 ## Problem
 I really had fun designing this year's PGCTF theme. Maybe a little bit too much fun.
 

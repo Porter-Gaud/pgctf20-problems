@@ -16,9 +16,8 @@ Porter-Gaud Capture the Flag problem-set with solutions.
 ## [Algorithm](/Algorithm)
 
 ## [Recon](/Recon)
-[Scheduled](/Recon/Scheduled) - 50 Points
+[Scheduled](/Recon/Scheduled) - 50 Points \
+[Charles Truluck](/Recon/Charles_Truluck) - 50 Points
 
 ## [Misc](/Misc)
 [CurioShop](/Misc/CurioShop) - 50 Points
-
-https://gist.github.com/charlestruluck/7494868da8aac909eb3833234e29d623

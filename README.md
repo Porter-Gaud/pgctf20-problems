@@ -6,6 +6,7 @@ Porter-Gaud Capture the Flag problem-set with solutions.
 # Categories and Problems
 ## [Forensics](/Forensics)
 [Bruh](/Forensics/Bruh) - 10 Points \
+[NOTted](/Forensics/NOTted) - 50 Points \
 [[REDACTED]](/Forensics/REDACTED) - 25 Points
 
 ## [Cryptography](/Cryptography)

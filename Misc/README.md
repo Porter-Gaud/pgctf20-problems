@@ -2,4 +2,5 @@
 # Misc - PGCTF20
 Anything that does not fit into a category will be here.
 ## Problems
-[CurioShop](/Misc/CurioShop) - 50 Points
+[CurioShop](/Misc/CurioShop) - 50 Points \
+[FLEX on me](/Misc/FLEX_on_me) - 150 Points

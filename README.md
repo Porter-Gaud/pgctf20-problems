@@ -20,7 +20,9 @@ Porter-Gaud Capture the Flag problem-set with solutions.
 ## [Recon](/Recon)
 [Scheduled](/Recon/Scheduled) - 50 Points \
 [Charles Truluck](/Recon/Charles_Truluck) - 50 Points \
-[Cuban Crisis](/Recon/Cuban_Crisis) - 50 Points
+[Cuban Crisis](/Recon/Cuban_Crisis) - 50 Points \
+[Detective](/Recon/Detective) - 50 Points
 
 ## [Misc](/Misc)
-[CurioShop](/Misc/CurioShop) - 50 Points
+[CurioShop](/Misc/CurioShop) - 50 Points \
+[FLEX on me](/Misc/FLEX_on_me) - 150 Points

@@ -17,7 +17,7 @@ I made sure this problem worked both on Windows and Mac before deploying it.
 Since I primarily use a Mac, I took the following Multimon-ng command: `multimon-ng -t wav -a FLEX flex_on_me.wav` which outputted the decoded messages below.
 
 #### Windows
-I tested PDW on my gamer rig, which worked equally as flawlessly as Multimon-ng. The only unintended side-effect was needing to install a third-party internal audio router (I chose [VB-Audio](https://www.vb-audio.com/Cable/)), but there may be an easy way to work around this with PDW. I fed the audio into VB-Audio, and set PDW to listen to that input as the discriminator.
+I tested PDW on my ***gamer rig***, which worked equally as flawlessly as Multimon-ng. The only unintended side-effect was needing to install a third-party internal audio router (I chose [VB-Audio](https://www.vb-audio.com/Cable/)), but there may be an easy way to work around this with PDW. I fed the audio into VB-Audio, and set PDW to listen to that input as the discriminator.
 
 ```
 FLEX: 2019-11-19 19:08:11 1600/2/K/A 07.097 [000002607] ALN TEST

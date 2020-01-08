@@ -1,0 +1,18 @@
+# Wesley's CTF - ?? Points
+## Problem
+We found this written in the back of a copy of Beowulf in an abandoned classroom...
+
+The agile grey mouse
+fights in the barren jungle.
+The pine needles show.
+
+
+## Solution
+This is a hipku. Decode and go to the ip and you will be greeted with the message:
+
+'flag: '
+
+Inspect and the flag is commented
+
+## Flag
+`pgctf{wh@n_th@t_@pr!l}`

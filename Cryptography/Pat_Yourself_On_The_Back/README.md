@@ -1,16 +1,17 @@
 [< Go to Cryptography](/Cryptography) OR [<< Go to Home](/)
-# Bacon Time - 15 Points
+# Pat Yourself On The Back - 10 Points
 ## Problem
-I like bacon but sometimes the bacon talks back.
+Even if you look around everywhere you can see, the flag is still nowhere to be seen.
 
-`ABBBBAABBAAAABABAABBAABAB{BAABBAABBBABAAABAABA_AAAABAAAAAAAABAABBBAABBAB_AABBBAAAAABAABA_BAABAAAAAABAABABAABA}` 
-
-Maybe you can figure out what the bacon is trying to convey.
+Once you find, make sure to pat yourself on the back.
 
 ## Solution
-Using the 'Bacon Cipher', the message can be decoded to say:
+The flag is located on the back of the PGCTF20 attendee shirts as:
+`ctpgs{flagujnir}`
 
-`PGCTF{THIS_BACON_HAS_SASS}`
+Decode with ROT13 and you get:
+
+`pgctf{synthwave}`
 
 ## Flag
-`pgctf{this_bacon_has_sass}`
+`pgctf{synthwave}`

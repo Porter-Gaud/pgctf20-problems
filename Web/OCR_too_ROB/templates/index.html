@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+    <p class="text-left">Welcome to the hacking license validation center!</p>
+    <p>Validating your hacking license is easy! Simply upload it and we'll tell you if it's valid.</p>
+    <div class="upload-form">
+      <form action = "/validate" method = "POST"
+        enctype = "multipart/form-data">
+        <input type = "file" name = "file" />
+        <input type = "submit" class="btn btn-primary" value="Submit"/>
+      </form>
+    </div>
+    <script>
+    var status = ["{{info}}", "{{error}}"];
+    console.log(status);
+    </script>
+
+{% endblock %}

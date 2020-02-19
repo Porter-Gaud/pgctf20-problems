@@ -6,6 +6,8 @@ Charles Truluck is a expert programmer. Students around the world should study h
 ## Solution
 The goal of the problem is to simply look for Charles Truluck's Gist profile on Github. You can find a seemingly innocent "ioutil.go" file; however, if you look at the file revisions, you find, "gistfile1.txt"
 
+Using a leaks finder can help you, because it has a private key as well.
+
 ## Flag
 `stupid_bug_bounty`
 
